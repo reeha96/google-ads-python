@@ -5,7 +5,7 @@
 # developer token see:                                                                   #
 # https://developers.google.com/google-ads/api/docs/first-call/dev-token                 #
 ##########################################################################################
-developer_token: INSERT_DEVELOPER_TOKEN_HERE
+developer_token: 'roZundQpWrM3NEzrLLQvkA'
 
 # Use proto plus
 ##########################################################################################
@@ -15,7 +15,7 @@ developer_token: INSERT_DEVELOPER_TOKEN_HERE
 # Messages guide:                                                                        #
 # https://developers.google.com/google-ads/api/docs/client-libs/python/protobuf-messages #
 ##########################################################################################
-use_proto_plus: INSERT_USE_PROTO_PLUS_FLAG_HERE
+use_proto_plus: "TRUE"
 
 # OAuth2 configuration
 ##########################################################################################
@@ -23,9 +23,9 @@ use_proto_plus: INSERT_USE_PROTO_PLUS_FLAG_HERE
 # OAuth2 flow. For more information on authenticating with OAuth2 see:                   #
 # https://developers.google.com/google-ads/api/docs/oauth/overview                       #
 ##########################################################################################
-client_id: INSERT_OAUTH2_CLIENT_ID_HERE
-client_secret: INSERT_OAUTH2_CLIENT_SECRET_HERE
-refresh_token: INSERT_REFRESH_TOKEN_HERE
+client_id: '294171140125-pats1fobd7qdvftjnulhc5kr11gdhqfs.apps.googleusercontent.com'
+client_secret: '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'
+refresh_token: '1//04wYYYjT2U7pcCgYIARAAGAQSNwF-L9IrnZBqc2tAiJeeHZasNo5Ek9hnV6LOcX0O2ulpnDgkrnYU_qqdlq4uEiox1kYRDck9cG4'
 
 # Service Account configuration
 ##########################################################################################
@@ -47,7 +47,7 @@ refresh_token: INSERT_REFRESH_TOKEN_HERE
 # also specify this later in code if your application uses multiple manager account +    #
 # OAuth pairs.                                                                           #
 ##########################################################################################
-login_customer_id: INSERT_LOGIN_CUSTOMER_ID_HERE
+login_customer_id: '4549718832'
 
 # Logging configuration
 ##########################################################################################
